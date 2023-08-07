@@ -13,3 +13,4 @@ and run the following commands to build and run the project.
 go build .
 ./obs-cli
 ```
+In case you just require a go server of your own to interact with obs-api, and write your own cli, you can find a very basicccc server here : https://github.com/ashpect/sig-obs 
