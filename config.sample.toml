@@ -1,0 +1,5 @@
+[Obs_Creds]
+obs_api_url = "https://api.opensuse.org/"
+obs_username = "obs_username"
+obs_password = "obs_password"
+

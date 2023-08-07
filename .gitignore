@@ -1,0 +1,4 @@
+config.toml
+obs-cli
+go.sum
+bin/
